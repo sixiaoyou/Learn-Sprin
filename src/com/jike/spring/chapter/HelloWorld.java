@@ -1,4 +1,4 @@
-package com.jike.spring.chapter01;
+package com.jike.spring.chapter;
 
 public class HelloWorld implements IHelloMessage {
 

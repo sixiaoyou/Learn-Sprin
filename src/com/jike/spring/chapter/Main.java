@@ -1,4 +1,4 @@
-package com.jike.spring.chapter01;
+package com.jike.spring.chapter;
 
 import org.springframework.beans.BeanInfoFactory;
 import org.springframework.beans.factory.BeanFactory;
